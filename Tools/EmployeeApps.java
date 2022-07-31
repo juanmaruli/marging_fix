@@ -11,7 +11,9 @@ package Tools;
  */
 public class EmployeeApps {
     public static void main(String[] args) {
-        System.out.println("SELAMAT DATANG DI TAB EMPLOYEES");
+        System.out.println("MENU MAIN");
+        
+        
         
     }
     
