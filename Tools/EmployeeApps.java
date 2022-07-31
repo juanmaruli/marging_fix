@@ -14,6 +14,7 @@ public class EmployeeApps {
         
         
         System.out.println("Menu ini khusus main saja");
+        System.out.println("COba modifikasi untuk check conflict");
         
     }
     
