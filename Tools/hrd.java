@@ -14,6 +14,7 @@ public class hrd {
         int nik;
         String nama;
         String jabatan;
+        int id_jabatan;
     }
     
 }
