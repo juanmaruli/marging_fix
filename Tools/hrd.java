@@ -9,10 +9,11 @@ package Tools;
  *
  * @author juanm
  */
-public class EmployeeApps {
+public class hrd {
     public static void main(String[] args) {
-        System.out.println("SELAMAT DATANG DI TAB EMPLOYEES");
-        
+        int nik;
+        String nama;
+        String jabatan;
     }
     
 }
