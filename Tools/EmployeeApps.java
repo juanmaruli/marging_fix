@@ -12,6 +12,9 @@ package Tools;
 public class EmployeeApps {
     public static void main(String[] args) {
         
+        
+        System.out.println("Menu ini khusus main saja");
+        
     }
     
 }
