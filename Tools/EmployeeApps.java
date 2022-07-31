@@ -15,7 +15,7 @@ public class EmployeeApps {
         
         
         
-        
+        System.out.println("SELAMAT DATANG DI MENU UTAMA");     
         System.out.println("Menu ini khusus main saja");
         
     }
