@@ -10,8 +10,15 @@ package Tools;
  * @author juanm
  */
 public class manager {
+    public static void main(String[] args) {
+        
+    
     int nik;
     String nama;
-    String jabatan;
+    String jabatan = "HRD";
+    
+    
+        System.out.println(jabatan);
+    }
     
 }
